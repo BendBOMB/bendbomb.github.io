@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<h2>What is B.O.M.B.?</h2>
 
-You can use the [editor on GitHub](https://github.com/BendBOMB/bendbomb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a group of local riders in Bend, Oregon, who love Jesus and love to mountain bike. We get together often for group rides, and to fellowship with one another.
 
-### Markdown
+We strive to **encourage** each other, have **fun** together, and use good trail **etiquette.** While this is a group for those who hold Christian beliefs, _anyone_ is welcome to join us on rides. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rides
 
-```markdown
-Syntax highlighted code block
+We have a standing ride twice a month, at this time. To stay in the loop:
 
-# Header 1
-## Header 2
-### Header 3
+#### Join our email newsletter:
 
-- Bulleted
-- List
+<div id="mc_embed_signup">
+<form action="https://joshlavin.us1.list-manage.com/subscribe/post?u=52e0ca18242a337663ff94c4e&amp;id=4c4eb76305" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <!-- <label for="mce-EMAIL">Get the scoop on rides!</label> -->
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_52e0ca18242a337663ff94c4e_4c4eb76305" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
 
-1. Numbered
-2. List
+#### Join our Strava club:
 
-**Bold** and _Italic_ and `Code` text
+[<img src="/assets/img/btn_strava_connectwith_orange.png">](https://www.strava.com/clubs/bendbomb)
 
-[Link](url) and ![Image](src)
-```
+### Social
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Follow us on [Instagram](https://www.instagram.com/bendbomb/) and [Twitter](https://twitter.com/BendBOMB)
 
-### Jekyll Themes
+<br>
+<hr>
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BendBOMB/bendbomb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many."
+  &nbsp;<cite>&mdash; Mark 10:45</cite>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center>:bike:</center>

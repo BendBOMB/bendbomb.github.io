@@ -1,1 +1,17 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+title: Bend BOMB
+description: Believers on Mountain Bikes
+github:
+  is_project_page: false
+twitter:
+  username: bendbomb
+  card: summary
+social:
+  name: Bend BOMB
+  links:
+    - https://twitter.com/BendBOMB
+    - https://www.instagram.com/bendbomb/
+    - https://www.strava.com/clubs/bendbomb
