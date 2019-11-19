@@ -38,4 +38,4 @@ Follow us on [Instagram](https://www.instagram.com/bendbomb/) and [Twitter](http
 > "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many."
   &nbsp;<cite>&mdash; Mark 10:45</cite>
 
-<center>:bike:</center>
+<center><img src="/assets/img/bike.png"></center>
